@@ -34,4 +34,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Your Name - [varda.hanwant03@gmail.com](mailto:varda.hanwant03@gmail.com)
 
-Project Link: [https://github.com/Varda003/credit-card-fraud-detection](https://github.com/Varda003/credit-card-fraud-detection)
+Project Link: [https://github.com/Varda003/Card_Detection_ML_Project](https://github.com/Varda003/Card_Detection_ML_Project)
